@@ -64,7 +64,7 @@ Adicione as seguintes políticas à sua função Lambda:
 ```
 ### Passo 7
 
-Copie o código do arquivo lambda_handler.py e cole na seção código do serviço Lambda da AWS. Em seguida, dê o deploy e execute o teste.
+Copie o código do arquivo [lambda_handler.py](https://github.com/jancyaragao/lambda_handler/blob/main/lambda_handler.py) e cole na seção código do serviço Lambda da AWS. Em seguida, dê o deploy e execute o teste.
 
 
 ### Resultado do teste (OK)
