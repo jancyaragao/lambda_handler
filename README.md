@@ -49,7 +49,7 @@ Adicione as seguintes políticas à sua função Lambda:
 ```
 
 #### PutItem (Libera o acesso à escrita da função no banco)
-```
+```bash
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -68,7 +68,7 @@ Copie o código do arquivo lambda_handler.py e cole na seção código do servi�
 
 
 ### Resultado do teste (OK)
-```
+```bash
 Test Event Name
 test_lambda_handler
 
